@@ -17,7 +17,7 @@ var tests = []struct {
 	{"3", []int{3, 3}, 7, []int{0, 1}}, //expected target = 6
 }
 
-func TestTwoSum(t *testing.T) {
+func TestCase(t *testing.T) {
 	t.Parallel()
 	for _, tc := range tests {
 		t.Run(tc.name, func(t *testing.T) {
