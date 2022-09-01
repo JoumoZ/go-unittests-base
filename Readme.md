@@ -12,7 +12,9 @@ https://leetcode.com/explore/interview/card/top-interview-questions-medium/
   * Leetcode:3Sum (pending hashmap study)
 
 * 2022.9.1
-  * Leetcode:3Sum
   * GoMock Case: 
     * https://github.com/golang/mock
     * https://medium.com/@eftal/how-to-mock-database-with-gomock-9bd0a92ffc10
+
+* 2022.9.2
+  * Leetcode:3Sum
