@@ -16,5 +16,12 @@ https://leetcode.com/explore/interview/card/top-interview-questions-medium/
     * https://github.com/golang/mock
     * https://medium.com/@eftal/how-to-mock-database-with-gomock-9bd0a92ffc10
 
-* 2022.9.2
+* 2022.9.2 - 9.7 (work hard)
   * Leetcode:3Sum
+  * finish this: https://leetcode.com/problem-list/top-interview-questions
+    * sort by array > string > hashmap(table) > dynamic programming > Greedy > Tree Search
+    * order by easy > medium > hard
+
+* 2022.9.8
+  * Leetcode: https://leetcode.com/problems/missing-number/submissions/
+  * https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/ (timeout issue)
